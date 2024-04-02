@@ -5,7 +5,7 @@
 My name is Shivank Goel. I am an undergraduate candidate at the University of Toronto, Ontario pursuing my Bachelor’s in Mathematics and Statistics major and Computer Sciences minor. I am interested in learning mathematics and mathematical educational research.
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.
 or <a href="mailto:shivankg.goel@mail.utoronto.ca"><b>email</b></a> me
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhuv-sharma&count_private=true" alt="Shivank's Language Stats">
+
 <!--
 **shivankgoel003/shivankgoel003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
